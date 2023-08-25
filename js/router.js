@@ -32,9 +32,14 @@ const routes = {
         title: "About Us",
         description: "This is the contact page",
     },
-    "/review": {
-        template: "templates/review.html",
-        title: "Review",
+    "/blog": {
+        template: "templates/blog.html",
+        title: "Blog",
+        description: "This is the contact page",
+    },
+    "/portfolio": {
+        template: "templates/portfolio.html",
+        title: "Portfolio",
         description: "This is the contact page",
     }
 };
