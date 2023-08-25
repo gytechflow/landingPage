@@ -746,7 +746,7 @@ body {
   font-size: 18px;
 }
 #gtco-footer textarea {
-  min-height: 200px;
+  min-height: 150px;
   border-radius: 30px;
   padding-top: 20px;
   padding-right: 20px;
@@ -791,3 +791,6 @@ body {
     margin-bottom: 50px;
   }
 }
+/* .content{
+  margin-bottom: 10%;
+} */
