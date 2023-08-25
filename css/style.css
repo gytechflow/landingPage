@@ -720,13 +720,13 @@ body {
 }
 
 #gtco-footer {
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 #gtco-footer h4 {
   font-family: "Lato-Medium";
-  font-size: 24px;
+  font-size: 22px;
   color: #1d3ede;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 #gtco-footer input, #gtco-footer textarea {
   background-color: white;
@@ -734,9 +734,9 @@ body {
   border-radius: 50px;
   max-width: 450px;
   width: 100%;
-  height: 60px;
+  height: 50px;
   border: none;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
   padding-left: 30px;
   color: #000;
 }
@@ -754,7 +754,7 @@ body {
 }
 #gtco-footer .company-nav, #gtco-footer .services-nav {
   font-family: "OpenSans-Regular";
-  font-size: 20px;
+  font-size: 18px;
 }
 #gtco-footer .company-nav a, #gtco-footer .services-nav a {
   color: #666666;
@@ -771,10 +771,10 @@ body {
   }
 }
 #gtco-footer .follow-us-nav a .fa {
-  font-size: 24px;
+  font-size: 20px;
 }
 #gtco-footer .col-12 {
-  margin-top: 90px;
+  margin-top: 45px;
 }
 #gtco-footer .col-12 p {
   font-family: "Lato-Regular";
@@ -783,7 +783,7 @@ body {
 }
 @media (max-width: 991px) {
   #gtco-footer .col-12 {
-    margin-top: 20px;
+    margin-top: 15px;
   }
 }
 @media (max-width: 991px) {
