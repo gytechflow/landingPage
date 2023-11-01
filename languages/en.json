@@ -1,0 +1,20 @@
+{
+  "nav_home": "Home",
+  "nav_service": "Services",
+  "nav_about": "About",
+  "nav_blog": "Blog",
+  "nav_protfolio": "Portfolio",
+  "nav_web_design": "Web Design",
+  "nav_graphics_design": "Graphics Design",
+  "nav_app_design": "App Desig",
+  "nav_analytic": "Analytic",
+  "p_signature": "2023. All Rights Reserved. Design by",
+  "home_h1_introduction": "<h2>We promise to bring the best <span>digital solution</span> for your business</h2>|nested",
+  "home_p_introduction": "At Gytechflow, we understand that every business has unique needs. That's why we offer customized solutions that are tailored to the specific needs of each of our customers. We offer services in<span class='font-weight-bold'> Web development, SEO, Digital Marketing and Analytics </span>",
+  "home_a_services": "our services",
+  "home_h2_portfolio_introduction": "Welcome to our Startup's Portfolio",
+  "home_p_portfolio_introduction": "Our startup specializes in developing innovative software solutions for businesses of all sizes. Our team of expert programmers is dedicated to providing quality service and achieving the best possible results. We already have several successful projects to our credit.",
+  "home_p_small_portfolio_introduction": "With our years of experience and cutting-edge technology, we'reconfident that we can help take your business to the next level. Contact us today to learn more about our services and how we can help you achieve your goals.",
+  "home_a_portfolio_introduction": "OUR Portfolio",
+  "home_": ""
+}

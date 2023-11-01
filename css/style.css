@@ -56,7 +56,7 @@ body {
   }
 }
 #gtco-main-nav {
-  padding: 20px 0;
+  padding: 10px 0;
 }
 #gtco-main-nav .navbar-brand {
   font-size: 36px;
@@ -270,7 +270,7 @@ body {
   }
 }
 .gtco-banner-area p {
-  max-width: 450px;
+  max-width: 2000px;
   margin: 20px 0;
   margin-bottom: 40px;
 }
@@ -336,7 +336,7 @@ body {
 }
 
 .gtco-features {
-  margin-top: 100px;
+  margin-top: 0px;
 }
 .gtco-features svg {
   position: absolute;
@@ -414,9 +414,9 @@ body {
 }
 
 .gtco-numbers-block {
-  margin: 100px 100px;
-  margin-top: 200px;
-  padding-bottom: 0px;
+  margin: 5% 5%;
+  margin-top: 10%;
+  padding-bottom: 10%;
   color: #fff;
 }
 @media (max-width: 600px) {
@@ -529,9 +529,14 @@ body {
   }
 }
 
+.gtco-purpose {
+  margin-top: 2em;
+  width: 100%;
+}
 .gtco-testimonials {
+  background: #fcfcfc;
   position: relative;
-  margin-top: 200px;
+  margin-top: 30px;
 }
 @media (max-width: 767px) {
   .gtco-testimonials {
@@ -567,6 +572,18 @@ body {
 .gtco-testimonials .owl-dots .active {
   box-shadow: none;
 }
+.gtco-purpose .owl-stage {
+  background: red;
+  width: 1000px;
+}
+
+/* .gtco-purpose .owl-dots .active span {
+  background: #01e6f8;
+  box-shadow: none;
+  height: 12px;
+  width: 12px;
+  margin-bottom: -1px;
+} */
 .gtco-testimonials .owl-dots .active span {
   background: #01e6f8;
   box-shadow: none;
@@ -574,12 +591,28 @@ body {
   width: 12px;
   margin-bottom: -1px;
 }
+.gtco-purpose .card {
+  background: #fff;
+  box-shadow: 0 15px 40px 0 rgba(0, 0, 0, 0.08);
+  margin: 0 30px;
+  padding: 0 20px;
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+}
 .gtco-testimonials .card {
   background: #fff;
   box-shadow: 0 15px 40px 0 rgba(0, 0, 0, 0.08);
   margin: 0 30px;
   padding: 0 20px;
   border-radius: 50px;
+}
+.gtco-purpose .card .card-img-top {
+  max-width: 100px;
+  margin: 0 auto;
+  /* border: 5px solid #1d3ede; */
+  /* width: 100px;
+  height: 100px; */
 }
 .gtco-testimonials .card .card-img-top {
   max-width: 100px;
@@ -603,6 +636,11 @@ body {
 .gtco-testimonials .card p {
   font-size: 18px;
 }
+
+/* .gtco-purpose .active {
+  opacity: 0.5;
+  transition: all 0.3s;
+} */
 .gtco-testimonials .active {
   opacity: 0.5;
   transition: all 0.3s;
@@ -626,7 +664,8 @@ body {
 }
 
 .gtco-features-list {
-  margin-top: 100px;
+  background: #fcfcfc;
+  margin-top: 50px;
 }
 .gtco-features-list .media {
   margin: 20px 0;
@@ -816,6 +855,3 @@ body {
     margin-bottom: 50px;
   }
 }
-/* .content{
-  margin-bottom: 10%;
-} */

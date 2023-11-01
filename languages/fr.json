@@ -1,0 +1,21 @@
+{
+  "nav_home": "Accueil",
+  "nav_service": "Services",
+  "nav_about": "A propos",
+  "nav_blog": "Blog",
+  "nav_protfolio": "Portfolio",
+  "nav_web_design": "Conception de Sites web",
+  "nav_graphics_design": "Conception graphique",
+  "nav_app_design": "Conception d'applications",
+  "nav_analytic": "Analytique",
+  "p_signature": "2023. Tous droits réservés. Conception par",
+  "home_h1_introduction": "<h2>Nous promettons d'apporter la meilleur <span> solution numérique </span> pour votre business</h2>|nested",
+  "home_h1_span_introduction": "solution numérique",
+  "home_p_introduction": "Chez Gytechflow, nous comprenons que chaque entreprise a des besoins uniques. C'est pourquoi nous offrons des solutions personnalisées qui sont adaptées aux besoins spécifiques de chacun de nos clients. Nous offrons des services dans les domaines suivant<span class='font-weight-bold'> Développement Web, SEO, Marketing Digital et Data Analyse </span>|nested",
+  "home_a_services": "Nos Services<i class='fa fa-angle-right' aria-hidden='true'></i>|nested",
+  "home_h2_portfolio_introduction": "Bienvenue dans le portfolio de notre startup",
+  "home_p_portfolio_introduction": "Notre startup est spécialisée dans le développement de solutions logicielles innovantes pour les entreprises de toutes tailles. Notre équipe de programmeurs experts est dédiée à la fourniture d'un service de qualité et à l'obtention des meilleurs résultats possibles. Nous avons déjà plusieurs projets réussis à notre actif.",
+  "home_p2_portfolio_introduction": "<small> Grâce à nos années d'expérience et à notre technologie de pointe, nous sommes convaincus que nous pouvons aider votre entreprise à passer à la vitesse supérieure. Nous pouvons vous aider à faire passer votre entreprise au niveau supérieur. Contactez-nous dès aujourd'hui pour en savoir plus sur nos services et sur la manière dont nous pouvons vous aider à atteindre vos objectifs. Vous aider à atteindre vos objectifs. </small>|nested",
+  "home_a_portfolio_introduction": "Notre Portfolio<i class='fa fa-angle-right' aria-hidden='true'></i>|nested",
+  "home_": ""
+}

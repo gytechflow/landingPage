@@ -6,6 +6,9 @@
   BlogComponent.prototype.init = function init() {
     "use strict";
 
+    // content = fetch("./components/blog/content_values.json");
+    // console.log(content);
+    // document.getElementById("test").innerHTML = "This goes into the element!";
     var carousels = function () {
       $(".owl-carousel1").owlCarousel({
         loop: true,
